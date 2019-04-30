@@ -1,0 +1,16 @@
+{
+  "name": "quote",
+  "version": "1.0.0",
+  "description": "This is a simple quote application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ilayaraja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node": "^12.1.0"
+  }
+}
